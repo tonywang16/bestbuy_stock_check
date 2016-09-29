@@ -1,2 +1,2 @@
 
-Monitoring Bestbuy online shipping inventor
+Monitoring Bestbuy online shipping inventory
